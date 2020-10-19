@@ -1,6 +1,6 @@
 <?php
 /**
- * Application entry point
+ * Application entry point Testing
  *
  * Example - run a particular store or website:
  * --------------------------------------------
